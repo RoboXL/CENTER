@@ -1,5 +1,5 @@
 # Centered Usernames
-This snippet centere's All usernames like [this](https://github-production-user-asset-6210df.s3.amazonaws.com/105053104/240701323-3cfe0028-109b-49b4-862b-bc34d148e16c.png)
+This snippet centers All usernames like [this](https://github-production-user-asset-6210df.s3.amazonaws.com/105053104/240701323-3cfe0028-109b-49b4-862b-bc34d148e16c.png)
 
 ### Better Discord: Paste this in custom CSS 
 > This works with vencord too 
