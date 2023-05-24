@@ -1,0 +1,82 @@
+/* Centered everything bars*/
+:root
+.membersGroup-2eiWxl {
+  background-color: var(--global-1);
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 2px;
+  font-size: 12px;
+  height: 2.5vh;
+  /*font-weight: bold; Use if your font is too light*/
+  text-align: center;
+}
+
+.containerDefault-3TQ5YN .overflow-1wOqNV {
+  color: var(--global-2) !important;
+  background-color: var(--global-1);
+  border-radius: 6px;
+  padding: 3px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  /*font-weight: bold; Use if your font is too light*/
+  text-align: center;
+}
+
+.sidebar-nqHbhN {
+  text-align: center ;
+}
+
+.headerText-1qIDDT{
+  text-align: center;
+}
+
+.messageContent-2t3eCI {
+  text-align: center;
+}
+
+.usernameSection-3FppkT {
+  text-align: center;
+}
+
+.customStatus-19KW6v {
+  text-align: center;
+}
+
+.mediaAttachmentsContainer-1WGRWy {
+  display: flex;
+  justify-content: center;
+}
+
+.imageContainer-10XenG {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.members-3WRCEx thin-RnSY0a scrollerBase-1Pkza4 fade-27X6bG customTheme-3QAYZq {
+  text-align: center;
+}
+
+.originalLink-Azwuo9 {
+  margin: 0px auto;
+}
+
+.section-28YDOf {
+  text-align: center;
+}
+
+.header-2jRmjb {
+  text-align: center;
+}
+
+.channelName-3KPsGw {
+  text-align: center;
+}
+
+.arrow-2HswgU {
+  top: 0px;
+  zoom: 125% ;
+}
+/* End of centered EV bars/*```
+
