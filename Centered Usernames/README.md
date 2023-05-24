@@ -9,5 +9,5 @@ This snippet centers All usernames like [this](https://github-production-user-as
 url(https://raw.githubusercontent.com/RoboXL/CSS-Things/main/Centered%20Usernames/CU.css)
 ```
 
-### ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=160&quality=lossless) Vencord link:
+## ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=160&quality=lossless) Vencord link:
 `https://raw.githubusercontent.com/RoboXL/CSS-Things/main/Centered%20Usernames/CU.css`
