@@ -13,12 +13,17 @@ This snippet centers All usernames like [this](https://github-production-user-as
     text-align: center;
   }
   .nameTag-35jqbZ {
-    display: flex;
     justify-content: center;
   }
   .customStatus-19KW6v {
     display: flex;
     justify-content: center;
+  }
+  .tabBar-2hXqzU {
+    justify-content: center;
+  }
+  .userInfoSection-2u2hir {
+    text-align: center;
   }
 
 ```
