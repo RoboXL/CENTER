@@ -7,8 +7,7 @@ This snippet centers All usernames like [this](https://github-production-user-as
 ```
 /* Centered usernames */
 .usernameSection-3FppkT,
-.container-3g15px,
-.userInfoSection-2u2hir {
+.container-3g15px {
     text-align: center;
 }
 
