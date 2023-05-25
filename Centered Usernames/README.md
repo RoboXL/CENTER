@@ -6,24 +6,20 @@ This snippet centers All usernames like [this](https://github-production-user-as
 
 ```
 /* Centered usernames */
-.usernameSection-3FppkT {
+.usernameSection-3FppkT,
+.container-3g15px,
+.userInfoSection-2u2hir {
     text-align: center;
-  }
-  .container-3g15px {
-    text-align: center;
-  }
-  .nameTag-35jqbZ {
-    justify-content: center;
-  }
-  .customStatus-19KW6v {
-    display: flex;
-    justify-content: center;
-  }
-  .tabBar-2hXqzU {
-    justify-content: center;
-  }
-  .userInfoSection-2u2hir {
-    text-align: center;
-  }
+}
 
+.customStatus-19KW6v {
+    display: flex;
+}
+
+.nameTag-35jqbZ,
+.customStatus-19KW6v,
+.tabBar-2hXqzU {
+    justify-content: center;
+}
+  
 ```
